@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-graphql-server",
+  "version": "1.0.0",
+  "description": "GraphQL API Server with Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adessovic/nodejs-graphql-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adessovic/nodejs-graphql-server/issues"
+  },
+  "homepage": "https://github.com/adessovic/nodejs-graphql-server#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "graphql": "^16.6.0"
+  }
+}
